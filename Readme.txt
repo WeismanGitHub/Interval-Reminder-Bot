@@ -8,11 +8,11 @@ Dependencies:
   
 Commands List:
   Add Reminder Command: 
-    creates a reminder
+    Creates a reminder.
     Example: +addreminder "Example Reminder" "This is an example" 60
 
   Delete Reminder Command:
-    deletes a reminder
+    Deletes a reminder.
     Example:+deletereminder "Example Reminder"
 
   Add Reminder Role Command:
