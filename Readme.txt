@@ -1,11 +1,5 @@
 This Discord.py bot sends reminders every x amount of minutes throughout the day.
 
-Dependencies:
-  pymongo
-  discord.py
-  flask
-  dnspython
-  
 Commands List:
   Add Reminder Command: 
     Creates a reminder.
